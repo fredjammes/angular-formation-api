@@ -4,58 +4,61 @@
       "id": "0",
       "name": "Abitbol",
       "firstname": "Georges",
+      "sizeIds": ["6","7","8"]
     },
     {
       "id": "1",
       "name": "Jesaisoututcache",
-      "firstname": "Philippe"
+      "firstname": "Philippe",
+      "sizeIds": ["3","4","5"]
     },
     {
       "id": "2",
       "name": "Karamazov",
-      "firstname": "Serge"
+      "firstname": "Serge",
+      "sizeIds": ["1","2","0"]
     }
   ],
   "sizes": [
     {
-      "personId": "0",
-      "height": "500",
-      "width": "500"
-    },
-    {
-      "personId": "0",
-      "height": "1000",
-      "width": "1000"
-    },
-    {
-      "personId": "0",
-      "height": "1500",
-      "width": "1500"
-    },
-    {
-      "personId": "1",
-      "height": "100",
-      "width": "100"
-    },
-    {
-      "personId": "1",
-      "height": "200",
-      "width": "200"
-    },
-    {
-      "personId": "2",
+      "id": "0",
       "height": "25",
       "width": "50"
     },
     {
-      "personId": "2",
+      "id": "1",
       "height": "50",
       "width": "25"
     },
     {
-      "personId": "2",
+      "id": "2",
       "height": "50",
       "width": "50"
+    },
+    {
+      "id": "3",
+      "height": "100",
+      "width": "100"
+    },
+    {
+      "id": "4",
+      "height": "200",
+      "width": "200"
+    },
+    {
+      "id": "5",
+      "height": "500",
+      "width": "500"
+    },
+    {
+      "id": "6",
+      "height": "1000",
+      "width": "1000"
+    },
+    {
+      "id": "7",
+      "height": "1500",
+      "width": "1500"
     }
   ]
 }
